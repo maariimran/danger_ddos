@@ -1,0 +1,6 @@
+1. clone it first ....
+2. cd danger_ddos
+3. chmod +x *
+4. sudo bash install.sh
+5. sudo bash run.sh
+6. .....
